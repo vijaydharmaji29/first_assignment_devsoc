@@ -1,0 +1,58 @@
+html, body 
+{
+    margin:0px;
+
+}
+
+#maindiv
+{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(45deg, #8EC5FC 0%, #ffdde1 100%);
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    height:100%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 2rem;
+}
+
+h1
+{
+    font-size: 4rem;
+}
+
+.btn.btn-warning
+{
+    background-color: #FFEBEE;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 2rem;
+    border-color: #FFEBEE;
+}
+
+#bottom_info
+{
+    margin-top: 2rem;
+    text-align: center;
+    background-color: #F8F0E5;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    border-radius: 3rem;
+    padding: 1rem;
+    color: #212121;
+    padding: 3rem;
+}
+
+#bottom_main_text
+{
+    color: black;
+}
+
+#logo
+{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-right: 0.5rem;
+}
