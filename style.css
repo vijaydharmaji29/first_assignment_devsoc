@@ -4,12 +4,28 @@ html, body
 
 }
 
+#reqrow
+{
+    position:relative;
+}
+
+#mainimg
+{
+    height: 400px;
+    width: 400px;
+    position:absolute;
+    bottom:0;
+    right:0;
+    margin: 2rem;
+}
+
 #maindiv
 {
     background-color: #8EC5FC;
     background-image: linear-gradient(45deg, #8EC5FC 0%, #ffdde1 100%);
     padding-top: 1rem;
     padding-left: 1.5rem;
+    padding-right: 1.5rem;
     height:100%;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -18,7 +34,7 @@ html, body
 
 h1
 {
-    font-size: 4rem;
+    font-size: 5rem;
 }
 
 .btn.btn-warning
@@ -56,3 +72,4 @@ h1
     width: 2.5rem;
     margin-right: 0.5rem;
 }
+
